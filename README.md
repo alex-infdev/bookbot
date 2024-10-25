@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+CLI word and character counter for text files 
